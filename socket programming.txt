@@ -1,0 +1,15 @@
+Client Server Architecture
+1. Client is a layer that user can access. Also capaple of initiating request.
+2. Server collects request , process it and sends response.
+
+For communication it follows an OSI or TCP/IP model which is a conceptual 
+architecture.
+
+Application layer protocals are HTTP, HTTPS, FTP , SMTP etc
+Transport layer protocals are TCP and UDP.
+Network layer protocal IP
+
+HTTP always works above TCP.HTTP is a hyper text transfer protocol which is capable 
+of sending documents i.e HTML which contain hyperlinks.
+
+Socket is an IP address and a port
